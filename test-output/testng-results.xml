@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-04T12:57:30 IST" name="Suite" finished-at="2022-01-04T12:58:18 IST" duration-ms="47356">
+    <groups>
+    </groups>
+    <test started-at="2022-01-04T12:57:30 IST" name="Test" finished-at="2022-01-04T12:58:18 IST" duration-ms="47356">
+      <class name="com.HRM.testCase.Tc_001_LoginIntoAppWithValidCred">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.HRM.testCase.Tc_001_LoginIntoAppWithValidCred@48ae9b55]" started-at="2022-01-04T12:57:30 IST" name="setup" finished-at="2022-01-04T12:58:10 IST" duration-ms="39834" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="hrm_Login()[pri:0, instance:com.HRM.testCase.Tc_001_LoginIntoAppWithValidCred@48ae9b55]" started-at="2022-01-04T12:58:10 IST" name="hrm_Login" finished-at="2022-01-04T12:58:16 IST" duration-ms="5946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hrm_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.HRM.testCase.Tc_001_LoginIntoAppWithValidCred@48ae9b55]" started-at="2022-01-04T12:58:16 IST" name="tearDown" finished-at="2022-01-04T12:58:18 IST" duration-ms="1458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HRM.testCase.Tc_001_LoginIntoAppWithValidCred -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

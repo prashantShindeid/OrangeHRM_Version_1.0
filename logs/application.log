@@ -1,0 +1,13 @@
+[INFO ] 2022-01-03 13:44:42 [main] BaseClass - Browser lanched Sucessfully
+[INFO ] 2022-01-03 13:44:42 [main] BaseClass - username set a Admin
+[INFO ] 2022-01-03 13:44:42 [main] BaseClass - password is set aadmin123
+[INFO ] 2022-01-03 13:44:49 [main] BaseClass - Clicked to login button
+[INFO ] 2022-01-03 13:44:55 [main] BaseClass - Browser is close Successfully
+[INFO ] 2022-01-03 13:44:55 [main] BaseClass - ******End of Test Case******
+[INFO ] 2022-01-03 13:57:51 [main] BaseClass - Browser lanched Sucessfully
+[INFO ] 2022-01-03 13:57:52 [main] BaseClass - username set a Admin
+[INFO ] 2022-01-03 13:57:52 [main] BaseClass - password is set aadmin123
+[INFO ] 2022-01-03 13:57:58 [main] BaseClass - Clicked to login button
+[INFO ] 2022-01-03 13:57:58 [main] BaseClass - Actual titleOrangeHRMis macthed with Expected title OrangeHRM
+[INFO ] 2022-01-03 13:57:58 [main] BaseClass - Browser is close Successfully
+[INFO ] 2022-01-03 13:57:58 [main] BaseClass - ******End of Test Case******
